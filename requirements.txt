@@ -3,3 +3,4 @@ Flask-Cors==3.0.10
 rembg
 Pillow==10.0.0
 requests==2.31.0
+onnxruntime
